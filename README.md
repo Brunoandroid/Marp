@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Marp é uma aplicação nativa em linguagem Kotlin voltada para clientes de um provedor de internet que atraves dessa solução conseguem emitir faturas, verificar areas que estão passando por reparos ou manutenções.   
+Marp é uma aplicação desenvolvida em linguagem (Kotlin/Java) e voltada para clientes de um provedor de internet que através dessa solução conseguem emitir faturas, verificar areas que estão passando por reparos ou manutenções.   
 
 ## Layout mobile
 <img src="https://github.com/Brunoandroid/Imagens/blob/main/img.jpeg" width="350" height="600">
