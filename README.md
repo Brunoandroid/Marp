@@ -7,3 +7,14 @@ Marp é uma aplicação nativa em linguagem Kotlin voltada para clientes de um p
 
 ## Layout mobile
 <img src="https://github.com/Brunoandroid/Imagens/blob/main/img.jpeg" width="350" height="600">
+
+# Tecnologias utilizadas
+
+## Back-end
+- Kotlin
+
+# Autor
+
+Bruno Freitas Araujo
+
+https://www.linkedin.com/in/bruno-freitas-b4491a138/
