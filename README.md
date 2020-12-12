@@ -12,6 +12,7 @@ Marp é uma aplicação desenvolvida em linguagem (Kotlin/Java) e voltada para c
 
 ## Back-end
 - Kotlin
+- Java
 
 # Autor
 
